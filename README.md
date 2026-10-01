@@ -1,4 +1,4 @@
-# AWS SBGL at HCC — Student Builder Group 🇳🇵
+# AWS SBGL at Hetauda City College — Student Builder Group 🇳🇵
 
 Leader portfolio + community hub for 2026–2027.
 SBGL 2026 at HCC — documenting events, workshops, projects, and impact with evidence.
