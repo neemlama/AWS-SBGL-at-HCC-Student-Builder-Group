@@ -19,13 +19,13 @@ aws-student-builder-group/
 
 | Metric | Target | Actual |
 |--------|--------|--------|
-| Members | XXX | 0 |
-| Events | XX | 0 |
-| Workshops | X | 0 |
-| Projects | XX | 0 |
-| Certifications | XX | 0 |
-| Speakers | X | 0 |
-| Students reached | XXX | 0 |
+| Members | 1000 | 22 |
+| Events | 8 | 0 |
+| Workshops | 12 | 0 |
+| Projects | 4 | 0 |
+| Certifications | 30 | 0 |
+| Speakers | 100 | 1 |
+| Students reached | 40 | 0 |
 
 Update `impact/metrics.md` after every event.
 
